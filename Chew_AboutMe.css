@@ -1,0 +1,15 @@
+#main_header{
+    font-family:Cursive;
+    color:#00b300;
+    font-weight:bolder;
+}
+#email{
+    height:100px;
+    width:100px;
+}
+#Selfie_pic-circle{
+    height:200px;
+    width: 200px;
+    padding: 20px;
+    border-radius: 50%;
+}
